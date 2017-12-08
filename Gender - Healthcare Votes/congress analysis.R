@@ -1,4 +1,4 @@
-# Testing models of factors influencing how Members of Congress vote on healthcare bills
+# Testing models of various factors that influence how Members of Congress vote on healthcare bills
 
 setwd("~/Documents/Learning R!/Congressional Voting Records/")
 library(nnet)
